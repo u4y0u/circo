@@ -1,6 +1,6 @@
 # circo
 
-version du 30/04/2022 17:00
+version du 30/04/2022 14:00
 
 ##### Compatibilité: Windows, MacOS, Linux et smarthphones Android.
 
@@ -20,7 +20,7 @@ Il nécessite donc l'installation de l'une des deux application :
 
 - Soit de l'application QField (la solution [Q]GIS mobile) pour smartphone que vous trouverez ici: https://qfield.org/docs/fr/
 
-Pour une mise en oeuvre simple et rapide, il suffit seulement de charger le fichier zip https://github.com/u4y0u/circo/raw/main/circo.zip , de décompacter son contenu dans un dossier, puis de l'ouvrir à partir de l'application (QGIS ou QField).
+Pour une mise en oeuvre simple et rapide, il suffit seulement de charger le fichier zip https://github.com/u4y0u/circo/raw/main/circo.zip , de décompacter son contenu dans un dossier, puis de l'ouvrir (.qgz) à partir de l'application (QGIS ou QField).
 
 
 
