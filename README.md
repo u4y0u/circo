@@ -26,5 +26,6 @@ Pour une mise en oeuvre simple et rapide, il suffit seulement de charger le fich
 
 
 
+![preview01](https://user-images.githubusercontent.com/54479065/166111192-d0972f19-618d-4056-8724-73a15c7d4f7e.png)
 
 
