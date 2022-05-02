@@ -25,7 +25,6 @@ Pour une mise en oeuvre simple et rapide, il suffit seulement de charger le fich
 
 
 
-
 ![circo_preview0](https://github.com/u4y0u/circo/raw/main/circo_preview0.png)
 
 
