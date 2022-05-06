@@ -10,7 +10,10 @@ voir l'annonce ici:
 
 https://twitter.com/UnionPop9213/status/1519322424256483328
 
-Préview de la base en ligne : https://framacarte.org/m/124874/ (mise à jour partielle) pour se donner une idée.
+Préview de la base en ligne : 
+https://framacarte.org/m/124874/ 
+ou https://www.google.com/maps/d/edit?mid=1Sul3sPV3wBwqSldJPw4bD-4icdxqsZKI&usp=sharing 
+(mises à jour partielle) pour se donner une idée.
 
 Ce projet utilise #QGIS ou #QField pour permettre de visualiser la carte des réseaux sociaux.
 
